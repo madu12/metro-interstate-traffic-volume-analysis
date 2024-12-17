@@ -1,0 +1,2119 @@
+{
+    "name": "Traffic Data",
+    "children": [
+        {
+            "name": "2012",
+            "children": [
+                {
+                    "name": "December",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 417336
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 524482
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 423481
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 400052
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 352366
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 366948
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 406507
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 447733
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 312175
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 252697
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 269500
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 404133
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 366071
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 458460
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 496581
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 320523
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 350101
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 246108
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 441536
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 412575
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 539402
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "2013",
+            "children": [
+                {
+                    "name": "April",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 614725
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 517705
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 370270
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 263386
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 376097
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 583046
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 372713
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 475977
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 347442
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 244566
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 247393
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 421337
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 313505
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 267379
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 332907
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 478137
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 262480
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 282542
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 325558
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 530764
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 349843
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 338374
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 435202
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 283124
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 211436
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 340490
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 336800
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 322600
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 368859
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 308515
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 278254
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 165093
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 429605
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 253203
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 422951
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 335395
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 419531
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 259082
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 264897
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 315129
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 446816
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 500157
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 316481
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 433780
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 300926
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 321068
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 472499
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 397592
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 344229
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 428122
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 252924
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 358546
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 322064
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 287824
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 322035
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 300901
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 474573
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 401380
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 407523
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 281570
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 666777
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 413804
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 556606
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 355355
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 209445
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 304624
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 159627
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 306874
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 258527
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 352309
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 274070
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 163905
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 227538
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 198325
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 321620
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 201117
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 195972
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 263722
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 278599
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 176956
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 174902
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 220892
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 177229
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 281295
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "2014",
+            "children": [
+                {
+                    "name": "April",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 347000
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 356376
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 256658
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 214467
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 354578
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 377590
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 348360
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 95545
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 94066
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 7288
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 48703
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 46637
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 94742
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 111397
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 316464
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 297689
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 247369
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 205380
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 323366
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 335077
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 335588
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 478828
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 261531
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 257628
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 189241
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 401743
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 324865
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 383334
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 390833
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 264692
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 308053
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 230804
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 328011
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 317577
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 419145
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 184375
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 242076
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 181658
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 197114
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 171767
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 132339
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 147033
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 360270
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 408175
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 354945
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 285976
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 353555
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 314254
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 346114
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 375311
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 466099
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 298780
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 245836
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 496834
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 419383
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 365588
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "2015",
+            "children": [
+                {
+                    "name": "August",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 378234
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 436535
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 359497
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 362597
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 396391
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 433958
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 482724
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 184693
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 240450
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 173512
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 184841
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 292940
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 331613
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 403434
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 463808
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 475909
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 254464
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 232013
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 529569
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 362200
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 422116
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 100014
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 137971
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 77922
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 79860
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 47324
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 93160
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 66712
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 177870
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 274249
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 159160
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 162285
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 207798
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 274935
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 260574
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 259363
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 242800
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 197847
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 132184
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 433577
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 260479
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 367184
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 374321
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 309562
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 247413
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 252130
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 652833
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 380707
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 545795
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "2016",
+            "children": [
+                {
+                    "name": "April",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 445951
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 373140
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 314930
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 301327
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 549377
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 347441
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 361296
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 344478
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 416476
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 343985
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 284680
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 337997
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 431050
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 442853
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 538896
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 390959
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 383333
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 321999
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 444746
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 333720
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 384265
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 330583
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 396925
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 224388
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 198338
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 252261
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 362710
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 228157
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 336079
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 296752
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 217582
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 195163
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 361074
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 203656
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 270755
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 401389
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 274808
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 236619
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 257977
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 356135
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 348231
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 392936
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 421591
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 343080
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 323090
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 260784
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 455518
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 350464
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 444781
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 284762
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 287154
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 213504
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 163913
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 327710
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 358987
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 387070
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 469938
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 428830
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 347961
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 321426
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 389594
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 544447
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 478791
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 443294
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 384997
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 268941
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 268264
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 355843
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 552530
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 599696
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 329034
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 388307
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 327566
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 289611
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 320231
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 326989
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 316400
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 426296
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 321011
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 281198
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 246837
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 426127
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 389249
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 364840
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "2017",
+            "children": [
+                {
+                    "name": "April",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 452409
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 525261
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 426546
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 372733
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 466479
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 439752
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 551725
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 468698
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 448833
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 398072
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 304032
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 662886
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 521761
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 572938
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 479758
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 458516
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 368932
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 350927
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 412185
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 313531
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 394543
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 364269
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 302924
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 295284
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 247630
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 361261
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 441621
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 404645
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 456948
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 596085
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 389271
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 300488
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 424605
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 534908
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 397574
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 393170
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 412141
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 343924
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 312425
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 419704
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 387767
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 484387
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 469098
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 382554
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 305207
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 317029
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 514504
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 360060
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 462989
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 538311
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 403474
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 306917
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 314695
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 560753
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 359276
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 470490
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 366828
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 607899
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 355354
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 337001
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 426308
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 530847
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 568376
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 502804
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 348455
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 334682
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 253069
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 440499
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 430833
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 516181
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 614326
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 516188
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 433365
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 350826
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 432101
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 482676
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 360757
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 522400
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 421641
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 400444
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 251605
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 357657
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 442998
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 360776
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "2018",
+            "children": [
+                {
+                    "name": "April",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 463982
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 490229
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 313842
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 336607
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 378646
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 426354
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 382324
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 669665
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 442323
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 381417
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 303292
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 486669
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 441650
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 490323
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 374132
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 367173
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 395542
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 230888
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 379566
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 410295
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 374025
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 352444
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 419539
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 281007
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 273876
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 455174
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 420415
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 506785
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 478847
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 442351
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 283557
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 359129
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 436482
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 455997
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 346573
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 501677
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 423218
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 519717
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 277104
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 385026
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 516239
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 387636
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 487789
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 418311
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 374719
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 281754
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 456996
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 478335
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 378093
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 409562
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 361929
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 292914
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 231806
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 527500
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 522916
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 542702
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "children": [
+                        {
+                            "name": "Friday",
+                            "size": 390525
+                        },
+                        {
+                            "name": "Monday",
+                            "size": 394623
+                        },
+                        {
+                            "name": "Saturday",
+                            "size": 376732
+                        },
+                        {
+                            "name": "Sunday",
+                            "size": 322672
+                        },
+                        {
+                            "name": "Thursday",
+                            "size": 514853
+                        },
+                        {
+                            "name": "Tuesday",
+                            "size": 573581
+                        },
+                        {
+                            "name": "Wednesday",
+                            "size": 510766
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
